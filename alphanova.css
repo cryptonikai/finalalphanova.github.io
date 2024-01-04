@@ -11704,4 +11704,21 @@ html {
       align-self: center;
       justify-self: center;
     }
+    .framer-oCbFW .framer-udt2ky {
+        aspect-ratio: 1.274787535410765 / 1;
+        background-color: #fff0;
+        flex: none;
+        height: var(--framer-aspect-ratio-supported, 392px);
+        overflow: visible;
+        position: relative;
+        width: 500px
+    }
+    .framer-oCbFW .framer-1drrui6-container {
+       bottom: unset;
+       height: auto;
+       left: 47%;
+       transform: translate(-50%);
+       width: 197px
+    }
+
   }
