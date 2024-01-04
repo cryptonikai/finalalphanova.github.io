@@ -1,0 +1,1176 @@
+.framer-oCbFW .framer-1b2p26t {
+                display: block
+            }
+
+            .framer-oCbFW .framer-1nrujnx {
+                align-content: center;
+                align-items: center;
+                background-color: #fff;
+                display: flex;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: hidden;
+                padding: 0;
+                position: relative;
+                width: 1200px
+            }
+
+            .framer-oCbFW .framer-1dsee6 {
+                align-content: center;
+                align-items: center;
+                box-shadow: inset 0 -1px #00021814;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                height: min-content;
+                justify-content: space-between;
+                overflow: visible;
+                padding: 12px 12px 12px 16px;
+                position: relative;
+                width: 390px;
+                z-index: 10
+            }
+
+            .framer-oCbFW .framer-1f4tqy {
+                cursor: pointer;
+                flex: none;
+                height: 38px;
+                position: relative;
+                text-decoration: none;
+                width: 119px
+            }
+
+            .framer-oCbFW .framer-1a8txtt-container {
+                flex: none;
+                height: 40px;
+                position: relative;
+                width: 40px
+            }
+
+            .framer-oCbFW .framer-at3zpl-container,.framer-oCbFW .framer-1gpxslw-container,.framer-oCbFW .framer-ya0fe6-container {
+                flex: none;
+                height: auto;
+                position: relative;
+                transform: perspective(1200px);
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-exx6w {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 0px;
+                height: min-content;
+                justify-content: flex-start;
+                max-width: 1328px;
+                overflow: visible;
+                padding: 0 24px;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-b4rcus {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-10d59iz-container {
+                cursor: pointer;
+                flex: none;
+                height: 30px;
+                position: relative;
+                transform: perspective(1200px);
+                width: auto
+            }
+
+            .framer-oCbFW .framer-g6nrby {
+                align-content: start;
+                align-items: start;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-117erdk {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: flex-start;
+                min-height: 112px;
+                overflow: hidden;
+                padding: 0;
+                position: relative;
+                width: 956px
+            }
+
+            .framer-oCbFW .framer-v6uoat {
+                --framer-paragraph-spacing: 0px;
+                flex: none;
+                height: auto;
+                overflow: visible;
+                position: relative;
+                transform: perspective(1200px);
+                white-space: pre-wrap;
+                width: 100%;
+                word-break: break-word;
+                word-wrap: break-word;
+                z-index: 1
+            }
+
+            .framer-oCbFW .framer-k78teo {
+                align-content: start;
+                align-items: start;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 10px 0 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-y40mki {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 10px 0 64px;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-oCbFW .framer-1pd2gev {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 40px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 640px
+            }
+
+            .framer-oCbFW .framer-1dt37ks {
+                --framer-paragraph-spacing: 0px;
+                flex: none;
+                height: auto;
+                overflow: hidden;
+                position: relative;
+                transform: perspective(1200px);
+                white-space: pre-wrap;
+                width: 640px;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-oCbFW .framer-56ouc1 {
+                align-content: start;
+                align-items: start;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 24px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: min-content
+            }
+
+            .framer-oCbFW .framer-yso9qp-container {
+                flex: none;
+                height: auto;
+                position: relative;
+                transform: perspective(1200px);
+                width: auto
+            }
+
+            .framer-oCbFW .framer-xb9txi {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 0px;
+                height: auto;
+                justify-content: flex-start;
+                max-width: 1100px;
+                overflow: visible;
+                padding: 60px 0 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-kpb1hu,.framer-oCbFW .framer-1venm5g {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 0px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-4bvft5,.framer-oCbFW .framer-139t17i {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                height: 450px;
+                justify-content: space-evenly;
+                overflow: hidden;
+                padding: 0;
+                position: relative;
+                transform: perspective(1200px);
+                width: 1px
+            }
+
+            .framer-oCbFW .framer-n6wsb2 {
+                aspect-ratio: 1.325068870523416 / 1;
+                flex: none;
+                height: var(--framer-aspect-ratio-supported, 363px);
+                overflow: visible;
+                position: relative;
+                width: 481px
+            }
+
+            .framer-oCbFW .framer-o2t1xw,.framer-oCbFW .framer-15juvxk {
+                align-content: start;
+                align-items: start;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 15px;
+                height: 450px;
+                justify-content: center;
+                overflow: visible;
+                padding: 0 50px;
+                position: relative;
+                width: 1px
+            }
+
+            .framer-oCbFW .framer-1pcovhf {
+                --framer-paragraph-spacing: 0px;
+                flex: none;
+                height: auto;
+                overflow: hidden;
+                position: relative;
+                transform: perspective(1200px);
+                white-space: pre-wrap;
+                width: 450px;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-oCbFW .framer-x338q4,.framer-oCbFW .framer-oa7rap {
+                --framer-paragraph-spacing: 0px;
+                flex: none;
+                height: auto;
+                opacity: .6;
+                overflow: hidden;
+                position: relative;
+                transform: perspective(1200px);
+                white-space: pre-wrap;
+                width: 450px;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-oCbFW .framer-ufbkhu {
+                flex: none;
+                height: 1px;
+                overflow: hidden;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-4hmyxj {
+                align-content: start;
+                align-items: start;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-h0hk9y,.framer-oCbFW .framer-i2vp6e {
+                align-content: start;
+                align-items: start;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                transform: perspective(1200px);
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-uupe0b,.framer-oCbFW .framer-1n9soe {
+                flex: none;
+                height: 30px;
+                position: relative;
+                width: 30px
+            }
+
+            .framer-oCbFW .framer-1onmahg,.framer-oCbFW .framer-ty94cp {
+                --framer-paragraph-spacing: 0px;
+                flex: none;
+                height: auto;
+                overflow: hidden;
+                position: relative;
+                white-space: pre-wrap;
+                width: 414px;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-oCbFW .framer-s5haj5 {
+                --framer-paragraph-spacing: 0px;
+                flex: none;
+                height: auto;
+                overflow: visible;
+                position: relative;
+                transform: perspective(1200px);
+                white-space: pre-wrap;
+                width: 450px;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-oCbFW .framer-ev4p6m {
+                flex: none;
+                height: 5px;
+                overflow: hidden;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-udt2ky {
+                aspect-ratio: 1.274787535410765 / 1;
+                background-color: #fff0;
+                flex: none;
+                height: var(--framer-aspect-ratio-supported, 392px);
+                overflow: visible;
+                position: relative;
+                width: 500px
+            }
+
+            .framer-oCbFW .framer-1drrui6-container {
+                bottom: 0;
+                flex: none;
+                left: calc(50.00000000000002% - 218px / 2);
+                position: absolute;
+                top: 0;
+                width: 218px
+            }
+
+            .framer-oCbFW .framer-1dm7i44 {
+                align-content: center;
+                align-items: center;
+                background: linear-gradient(64deg,#1c70d3 14.85134893129769%,rgb(3,192,251) 93.91185181036784%);
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 50px;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-134tl70 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 40px;
+                height: min-content;
+                justify-content: center;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: min-content
+            }
+
+            .framer-oCbFW .framer-tsq70,.framer-oCbFW .framer-1uh4mth,.framer-oCbFW .framer-1wjhxpe {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 220px
+            }
+
+            .framer-oCbFW .framer-zvga0j,.framer-oCbFW .framer-1hxsc2g,.framer-oCbFW .framer-vcobk2 {
+                --framer-link-text-color: #0099ff;
+                --framer-link-text-decoration: underline;
+                --framer-paragraph-spacing: 0px;
+                flex: none;
+                height: auto;
+                overflow: hidden;
+                position: relative;
+                white-space: pre-wrap;
+                width: 100%;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-oCbFW .framer-5bnl09,.framer-oCbFW .framer-wvm10d,.framer-oCbFW .framer-154lq2l {
+                --framer-link-text-color: #0099ff;
+                --framer-link-text-decoration: underline;
+                --framer-paragraph-spacing: 0px;
+                flex: none;
+                height: auto;
+                opacity: .8;
+                overflow: hidden;
+                position: relative;
+                white-space: pre-wrap;
+                width: 100%;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-oCbFW .framer-wvdfu9 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 0px;
+                height: auto;
+                justify-content: flex-start;
+                overflow: hidden;
+                padding: 0 100px;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-18ir3gy,.framer-oCbFW .framer-1kvyce7 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 0px;
+                height: min-content;
+                justify-content: flex-start;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-ekxcwb {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 0px;
+                height: min-content;
+                justify-content: flex-start;
+                padding: 58px 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-10ph0wf {
+                align-content: start;
+                align-items: start;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 0px;
+                height: min-content;
+                justify-content: center;
+                max-width: 1280px;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-1hsyuf8 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 0px;
+                height: min-content;
+                justify-content: center;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-13ba5b5,.framer-oCbFW .framer-1lszsa3 {
+                --framer-link-text-color: #0099ff;
+                --framer-link-text-decoration: underline;
+                --framer-paragraph-spacing: 0px;
+                flex: none;
+                height: auto;
+                position: relative;
+                white-space: pre-wrap;
+                width: 100%;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-oCbFW .framer-1nhgfkk-container {
+                flex: none;
+                height: 400px;
+                position: relative;
+                width: 119%
+            }
+
+            .framer-oCbFW .framer-oomkt7,.framer-oCbFW .framer-qvrhpp,.framer-oCbFW .framer-z94ot0,.framer-oCbFW .framer-6iio5u {
+                aspect-ratio: .75 / 1;
+                height: var(--framer-aspect-ratio-supported, 400px);
+                overflow: visible;
+                position: relative;
+                width: 300px
+            }
+
+            .framer-oCbFW .framer-1lblbly {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 20px;
+                height: 600px;
+                justify-content: center;
+                overflow: hidden;
+                padding: 40px;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-lp5uh0 {
+                align-content: start;
+                align-items: start;
+                background: linear-gradient(68deg,#1c71d4 0%,rgb(2,192,250) 100%);
+                border-radius: 20px;
+                display: flex;
+                flex: 1 0 0px;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 0px;
+                height: 1px;
+                justify-content: center;
+                overflow: visible;
+                padding: 32px;
+                position: relative;
+                transform: perspective(1200px);
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-1jgegru {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 32px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-1bzh47o {
+                align-content: start;
+                align-items: start;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-qajtz0 {
+                align-content: end;
+                align-items: end;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 10px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-uarld8 {
+                --framer-paragraph-spacing: 0px;
+                flex: none;
+                height: auto;
+                overflow: visible;
+                position: relative;
+                white-space: pre;
+                width: auto
+            }
+
+            .framer-oCbFW .framer-wwnfeo {
+                --framer-paragraph-spacing: 0px;
+                flex: none;
+                height: auto;
+                overflow: hidden;
+                position: relative;
+                white-space: pre-wrap;
+                width: 100%;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-oCbFW .framer-a2sfnn {
+                align-content: start;
+                align-items: start;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 16px;
+                height: min-content;
+                justify-content: flex-start;
+                overflow: visible;
+                padding: 0 0 32px;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-1b5iep3,.framer-oCbFW .framer-1e48zff,.framer-oCbFW .framer-3orpi3,.framer-oCbFW .framer-11lk1y0 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 12px;
+                height: min-content;
+                justify-content: flex-end;
+                overflow: visible;
+                padding: 0;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-ona0bt,.framer-oCbFW .framer-1326y07,.framer-oCbFW .framer-11f41qf,.framer-oCbFW .framer-1pqpafx {
+                flex: none;
+                height: 20px;
+                position: relative;
+                width: 20px
+            }
+
+            .framer-oCbFW .framer-z7p6tm,.framer-oCbFW .framer-7d14li,.framer-oCbFW .framer-1fxz3qv,.framer-oCbFW .framer-7r7czt {
+                --framer-paragraph-spacing: 0px;
+                flex: 1 0 0px;
+                height: auto;
+                overflow: hidden;
+                position: relative;
+                white-space: pre-wrap;
+                width: 1px;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-oCbFW .framer-1bm7v0u {
+                cursor: pointer;
+                flex: none;
+                height: 48px;
+                overflow: hidden;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-16jbj1r-container {
+                flex: none;
+                height: auto;
+                left: 50%;
+                position: absolute;
+                top: 50%;
+                transform: translate(-50%,-50%);
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-optmqu {
+                background-color: #000c;
+                inset: 0;
+                position: fixed;
+                user-select: none
+            }
+
+            .framer-oCbFW .framer-s48yh9 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 20px;
+                height: min-content;
+                justify-content: center;
+                left: 50%;
+                overflow: hidden;
+                padding: 0;
+                position: fixed;
+                top: 50%;
+                transform: translate(-50%,-50%);
+                width: min-content
+            }
+
+            .framer-oCbFW .framer-jg3gmx {
+                --framer-link-text-color: #0099ff;
+                --framer-link-text-decoration: underline;
+                --framer-paragraph-spacing: 0px;
+                flex: none;
+                height: auto;
+                position: relative;
+                white-space: pre-wrap;
+                width: 300px;
+                word-break: break-word;
+                word-wrap: break-word
+            }
+
+            .framer-oCbFW .framer-fwz5x4-container {
+                flex: none;
+                height: auto;
+                position: relative;
+                width: 300px
+            }
+
+            .framer-oCbFW .framer-ellagf {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 60px;
+                height: min-content;
+                justify-content: center;
+                overflow: hidden;
+                padding: 64px 32px;
+                position: relative;
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-jg6lm9 {
+                align-content: center;
+                align-items: center;
+                display: flex;
+                flex: none;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                gap: 12px;
+                height: min-content;
+                justify-content: center;
+                max-width: 768px;
+                overflow: hidden;
+                padding: 0;
+                position: relative;
+                transform: perspective(1200px);
+                width: 100%
+            }
+
+            .framer-oCbFW .framer-h3af1w-container,.framer-oCbFW .framer-eo1t60-container,.framer-oCbFW .framer-3s4otu-container,.framer-oCbFW .framer-enyfnx-container {
+                flex: none;
+                height: auto;
+                position: relative;
+                width: 100%
+            }
+
+            @supports (background: -webkit-named-image(i)) and (not (scale:1)) {
+                .framer-oCbFW .framer-1nrujnx,.framer-oCbFW .framer-exx6w,.framer-oCbFW .framer-b4rcus,.framer-oCbFW .framer-g6nrby,.framer-oCbFW .framer-117erdk,.framer-oCbFW .framer-k78teo,.framer-oCbFW .framer-y40mki,.framer-oCbFW .framer-1pd2gev,.framer-oCbFW .framer-56ouc1,.framer-oCbFW .framer-xb9txi,.framer-oCbFW .framer-kpb1hu,.framer-oCbFW .framer-o2t1xw,.framer-oCbFW .framer-4hmyxj,.framer-oCbFW .framer-h0hk9y,.framer-oCbFW .framer-i2vp6e,.framer-oCbFW .framer-1venm5g,.framer-oCbFW .framer-15juvxk,.framer-oCbFW .framer-1dm7i44,.framer-oCbFW .framer-134tl70,.framer-oCbFW .framer-tsq70,.framer-oCbFW .framer-1uh4mth,.framer-oCbFW .framer-1wjhxpe,.framer-oCbFW .framer-wvdfu9,.framer-oCbFW .framer-18ir3gy,.framer-oCbFW .framer-ekxcwb,.framer-oCbFW .framer-10ph0wf,.framer-oCbFW .framer-1kvyce7,.framer-oCbFW .framer-1hsyuf8,.framer-oCbFW .framer-1lblbly,.framer-oCbFW .framer-lp5uh0,.framer-oCbFW .framer-1jgegru,.framer-oCbFW .framer-1bzh47o,.framer-oCbFW .framer-qajtz0,.framer-oCbFW .framer-a2sfnn,.framer-oCbFW .framer-1b5iep3,.framer-oCbFW .framer-1e48zff,.framer-oCbFW .framer-3orpi3,.framer-oCbFW .framer-11lk1y0,.framer-oCbFW .framer-s48yh9,.framer-oCbFW .framer-ellagf,.framer-oCbFW .framer-jg6lm9 {
+                    gap:0px
+                }
+
+                .framer-oCbFW .framer-1nrujnx>*,.framer-oCbFW .framer-b4rcus>*,.framer-oCbFW .framer-y40mki>*,.framer-oCbFW .framer-4hmyxj>*,.framer-oCbFW .framer-tsq70>*,.framer-oCbFW .framer-1uh4mth>*,.framer-oCbFW .framer-1wjhxpe>* {
+                    margin: 5px 0
+                }
+
+                .framer-oCbFW .framer-1nrujnx>:first-child,.framer-oCbFW .framer-exx6w>:first-child,.framer-oCbFW .framer-b4rcus>:first-child,.framer-oCbFW .framer-y40mki>:first-child,.framer-oCbFW .framer-1pd2gev>:first-child,.framer-oCbFW .framer-xb9txi>:first-child,.framer-oCbFW .framer-o2t1xw>:first-child,.framer-oCbFW .framer-4hmyxj>:first-child,.framer-oCbFW .framer-15juvxk>:first-child,.framer-oCbFW .framer-tsq70>:first-child,.framer-oCbFW .framer-1uh4mth>:first-child,.framer-oCbFW .framer-1wjhxpe>:first-child,.framer-oCbFW .framer-wvdfu9>:first-child,.framer-oCbFW .framer-18ir3gy>:first-child,.framer-oCbFW .framer-ekxcwb>:first-child,.framer-oCbFW .framer-10ph0wf>:first-child,.framer-oCbFW .framer-1kvyce7>:first-child,.framer-oCbFW .framer-1hsyuf8>:first-child,.framer-oCbFW .framer-1lblbly>:first-child,.framer-oCbFW .framer-lp5uh0>:first-child,.framer-oCbFW .framer-1jgegru>:first-child,.framer-oCbFW .framer-1bzh47o>:first-child,.framer-oCbFW .framer-a2sfnn>:first-child,.framer-oCbFW .framer-s48yh9>:first-child,.framer-oCbFW .framer-ellagf>:first-child,.framer-oCbFW .framer-jg6lm9>:first-child {
+                    margin-top: 0
+                }
+
+                .framer-oCbFW .framer-1nrujnx>:last-child,.framer-oCbFW .framer-exx6w>:last-child,.framer-oCbFW .framer-b4rcus>:last-child,.framer-oCbFW .framer-y40mki>:last-child,.framer-oCbFW .framer-1pd2gev>:last-child,.framer-oCbFW .framer-xb9txi>:last-child,.framer-oCbFW .framer-o2t1xw>:last-child,.framer-oCbFW .framer-4hmyxj>:last-child,.framer-oCbFW .framer-15juvxk>:last-child,.framer-oCbFW .framer-tsq70>:last-child,.framer-oCbFW .framer-1uh4mth>:last-child,.framer-oCbFW .framer-1wjhxpe>:last-child,.framer-oCbFW .framer-wvdfu9>:last-child,.framer-oCbFW .framer-18ir3gy>:last-child,.framer-oCbFW .framer-ekxcwb>:last-child,.framer-oCbFW .framer-10ph0wf>:last-child,.framer-oCbFW .framer-1kvyce7>:last-child,.framer-oCbFW .framer-1hsyuf8>:last-child,.framer-oCbFW .framer-1lblbly>:last-child,.framer-oCbFW .framer-lp5uh0>:last-child,.framer-oCbFW .framer-1jgegru>:last-child,.framer-oCbFW .framer-1bzh47o>:last-child,.framer-oCbFW .framer-a2sfnn>:last-child,.framer-oCbFW .framer-s48yh9>:last-child,.framer-oCbFW .framer-ellagf>:last-child,.framer-oCbFW .framer-jg6lm9>:last-child {
+                    margin-bottom: 0
+                }
+
+                .framer-oCbFW .framer-exx6w>*,.framer-oCbFW .framer-xb9txi>*,.framer-oCbFW .framer-wvdfu9>*,.framer-oCbFW .framer-18ir3gy>*,.framer-oCbFW .framer-ekxcwb>*,.framer-oCbFW .framer-10ph0wf>*,.framer-oCbFW .framer-1kvyce7>*,.framer-oCbFW .framer-1hsyuf8>*,.framer-oCbFW .framer-lp5uh0>* {
+                    margin: 0
+                }
+
+                .framer-oCbFW .framer-g6nrby>*,.framer-oCbFW .framer-117erdk>*,.framer-oCbFW .framer-k78teo>*,.framer-oCbFW .framer-h0hk9y>*,.framer-oCbFW .framer-i2vp6e>*,.framer-oCbFW .framer-1dm7i44>*,.framer-oCbFW .framer-qajtz0>* {
+                    margin: 0 5px
+                }
+
+                .framer-oCbFW .framer-g6nrby>:first-child,.framer-oCbFW .framer-117erdk>:first-child,.framer-oCbFW .framer-k78teo>:first-child,.framer-oCbFW .framer-56ouc1>:first-child,.framer-oCbFW .framer-kpb1hu>:first-child,.framer-oCbFW .framer-h0hk9y>:first-child,.framer-oCbFW .framer-i2vp6e>:first-child,.framer-oCbFW .framer-1venm5g>:first-child,.framer-oCbFW .framer-1dm7i44>:first-child,.framer-oCbFW .framer-134tl70>:first-child,.framer-oCbFW .framer-qajtz0>:first-child,.framer-oCbFW .framer-1b5iep3>:first-child,.framer-oCbFW .framer-1e48zff>:first-child,.framer-oCbFW .framer-3orpi3>:first-child,.framer-oCbFW .framer-11lk1y0>:first-child {
+                    margin-left: 0
+                }
+
+                .framer-oCbFW .framer-g6nrby>:last-child,.framer-oCbFW .framer-117erdk>:last-child,.framer-oCbFW .framer-k78teo>:last-child,.framer-oCbFW .framer-56ouc1>:last-child,.framer-oCbFW .framer-kpb1hu>:last-child,.framer-oCbFW .framer-h0hk9y>:last-child,.framer-oCbFW .framer-i2vp6e>:last-child,.framer-oCbFW .framer-1venm5g>:last-child,.framer-oCbFW .framer-1dm7i44>:last-child,.framer-oCbFW .framer-134tl70>:last-child,.framer-oCbFW .framer-qajtz0>:last-child,.framer-oCbFW .framer-1b5iep3>:last-child,.framer-oCbFW .framer-1e48zff>:last-child,.framer-oCbFW .framer-3orpi3>:last-child,.framer-oCbFW .framer-11lk1y0>:last-child {
+                    margin-right: 0
+                }
+
+                .framer-oCbFW .framer-1pd2gev>* {
+                    margin: 20px 0
+                }
+
+                .framer-oCbFW .framer-56ouc1>* {
+                    margin: 0 12px
+                }
+
+                .framer-oCbFW .framer-kpb1hu>*,.framer-oCbFW .framer-1venm5g>* {
+                    margin: 0
+                }
+
+                .framer-oCbFW .framer-o2t1xw>*,.framer-oCbFW .framer-15juvxk>* {
+                    margin: 7.5px 0
+                }
+
+                .framer-oCbFW .framer-134tl70>* {
+                    margin: 0 20px
+                }
+
+                .framer-oCbFW .framer-1lblbly>*,.framer-oCbFW .framer-s48yh9>* {
+                    margin: 10px 0
+                }
+
+                .framer-oCbFW .framer-1jgegru>* {
+                    margin: 16px 0
+                }
+
+                .framer-oCbFW .framer-1bzh47o>*,.framer-oCbFW .framer-a2sfnn>* {
+                    margin: 8px 0
+                }
+
+                .framer-oCbFW .framer-1b5iep3>*,.framer-oCbFW .framer-1e48zff>*,.framer-oCbFW .framer-3orpi3>*,.framer-oCbFW .framer-11lk1y0>* {
+                    margin: 0 6px
+                }
+
+                .framer-oCbFW .framer-ellagf>* {
+                    margin: 30px 0
+                }
+
+                .framer-oCbFW .framer-jg6lm9>* {
+                    margin: 6px 0
+                }
+            }
+
+            @media (min-width: 1200px) {
+                .framer-oCbFW .hidden-1nrujnx {
+                    display:none!important
+                }
+            }
+
+            @media (min-width: 810px) and (max-width: 1199px) {
+                .framer-oCbFW .hidden-bivqzg {
+                    display:none!important
+                }
+
+                .framer-body-M2a9KUQBV-framer-oCbFW {
+                    background: rgb(255,255,255)
+                }
+
+                .framer-oCbFW .framer-1nrujnx {
+                    width: 810px
+                }
+
+                .framer-oCbFW .framer-117erdk {
+                    width: 796px
+                }
+
+                .framer-oCbFW .framer-v6uoat,.framer-oCbFW .framer-1pcovhf,.framer-oCbFW .framer-x338q4,.framer-oCbFW .framer-s5haj5,.framer-oCbFW .framer-oa7rap {
+                    width: 100%
+                }
+
+                .framer-oCbFW .framer-n6wsb2 {
+                    height: var(--framer-aspect-ratio-supported, 284px);
+                    width: 376px
+                }
+
+                .framer-oCbFW .framer-o2t1xw,.framer-oCbFW .framer-15juvxk {
+                    padding: 0 30px
+                }
+
+                .framer-oCbFW .framer-1onmahg,.framer-oCbFW .framer-ty94cp,.framer-oCbFW .framer-134tl70 {
+                    flex: 1 0 0px;
+                    width: 1px
+                }
+
+                .framer-oCbFW .framer-udt2ky {
+                    height: var(--framer-aspect-ratio-supported, 296px);
+                    width: 377px
+                }
+
+                .framer-oCbFW .framer-1drrui6-container {
+                    bottom: unset;
+                    height: auto;
+                    left: 47%;
+                    transform: translate(-50%);
+                    width: 197px
+                }
+
+                .framer-oCbFW .framer-1dm7i44 {
+                    padding: 40px
+                }
+
+                .framer-oCbFW .framer-18ir3gy {
+                    padding: 0 32px
+                }
+
+                .framer-oCbFW .framer-1nhgfkk-container {
+                    width: 131%
+                }
+            }
+
+            @media (max-width: 809px) {
+                .framer-oCbFW .hidden-1nran7t {
+                    display:none!important
+                }
+
+                .framer-body-M2a9KUQBV-framer-oCbFW {
+                    background: rgb(255,255,255)
+                }
+
+                .framer-oCbFW .framer-1nrujnx {
+                    width: 390px
+                }
+
+                .framer-oCbFW .framer-g6nrby {
+                    align-content: center;
+                    align-items: center;
+                    flex-direction: column
+                }
+
+                .framer-oCbFW .framer-117erdk {
+                    gap: 0px;
+                    min-height: 80px;
+                    width: 379px
+                }
+
+                .framer-oCbFW .framer-v6uoat,.framer-oCbFW .framer-1pd2gev,.framer-oCbFW .framer-1dt37ks,.framer-oCbFW .framer-x338q4,.framer-oCbFW .framer-s5haj5,.framer-oCbFW .framer-oa7rap {
+                    width: 100%
+                }
+
+                .framer-oCbFW .framer-xb9txi {
+                    padding: 10px 20px 0
+                }
+
+                .framer-oCbFW .framer-kpb1hu,.framer-oCbFW .framer-1venm5g {
+                    flex-direction: column
+                }
+
+                .framer-oCbFW .framer-4bvft5 {
+                    flex: none;
+                    height: min-content;
+                    order: 1;
+                    width: 100%
+                }
+
+                .framer-oCbFW .framer-n6wsb2 {
+                    height: var(--framer-aspect-ratio-supported, 279px);
+                    width: 370px
+                }
+
+                .framer-oCbFW .framer-o2t1xw {
+                    flex: none;
+                    height: min-content;
+                    order: 0;
+                    padding: 40px 0 30px;
+                    width: 100%
+                }
+
+                .framer-oCbFW .framer-1pcovhf {
+                    overflow: visible;
+                    width: 100%
+                }
+
+                .framer-oCbFW .framer-1onmahg,.framer-oCbFW .framer-ty94cp {
+                    flex: 1 0 0px;
+                    width: 1px
+                }
+
+                .framer-oCbFW .framer-15juvxk {
+                    flex: none;
+                    height: min-content;
+                    padding: 40px 0 30px;
+                    width: 100%
+                }
+
+                .framer-oCbFW .framer-139t17i {
+                    flex: none;
+                    height: min-content;
+                    width: 100%
+                }
+
+                .framer-oCbFW .framer-udt2ky {
+                    height: var(--framer-aspect-ratio-supported, 290px);
+                    width: 370px
+                }
+
+                .framer-oCbFW .framer-1drrui6-container {
+                    left: calc(50.540540540540555% - 163px / 2);
+                    width: 163px
+                }
+
+                .framer-oCbFW .framer-134tl70 {
+                    flex: 1 0 0px;
+                    flex-direction: column;
+                    width: 1px
+                }
+
+                .framer-oCbFW .framer-1lszsa3,.framer-oCbFW .framer-1nhgfkk-container {
+                    width: 200%
+                }
+
+                .framer-oCbFW .framer-1lblbly {
+                    height: 754px;
+                    padding: 60px;
+                    width: 101%
+                }
+
+                .framer-oCbFW .framer-lp5uh0 {
+                    flex: none;
+                    height: min-content
+                }
+
+                @supports (background: -webkit-named-image(i)) and (not (scale:1)) {
+                    .framer-oCbFW .framer-g6nrby,.framer-oCbFW .framer-117erdk,.framer-oCbFW .framer-kpb1hu,.framer-oCbFW .framer-1venm5g,.framer-oCbFW .framer-134tl70 {
+                        gap:0px
+                    }
+
+                    .framer-oCbFW .framer-g6nrby>* {
+                        margin: 5px 0
+                    }
+
+                    .framer-oCbFW .framer-g6nrby>:first-child,.framer-oCbFW .framer-kpb1hu>:first-child,.framer-oCbFW .framer-1venm5g>:first-child,.framer-oCbFW .framer-134tl70>:first-child {
+                        margin-top: 0
+                    }
+
+                    .framer-oCbFW .framer-g6nrby>:last-child,.framer-oCbFW .framer-kpb1hu>:last-child,.framer-oCbFW .framer-1venm5g>:last-child,.framer-oCbFW .framer-134tl70>:last-child {
+                        margin-bottom: 0
+                    }
+
+                    .framer-oCbFW .framer-117erdk>* {
+                        margin: 0
+                    }
+
+                    .framer-oCbFW .framer-117erdk>:first-child {
+                        margin-left: 0
+                    }
+
+                    .framer-oCbFW .framer-117erdk>:last-child {
+                        margin-right: 0
+                    }
+
+                    .framer-oCbFW .framer-kpb1hu>*,.framer-oCbFW .framer-1venm5g>* {
+                        margin: 0
+                    }
+
+                    .framer-oCbFW .framer-134tl70>* {
+                        margin: 20px 0
+                    }
+                }
+            }
+
