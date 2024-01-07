@@ -11720,5 +11720,35 @@ html {
        transform: translate(-50%);
        width: 197px
     }
+    .home-more-section{
+        padding-top:50px;
+        padding-bottom:50px
+    }
+    .home-more-head-container{
+        grid-column-gap:80px;
+        align-items:flex-start;
+        margin-bottom:0;display:flex}
+    .home-more-heading{
+        width:37%;
+        max-width:510px;
+        color:var(--d-500)
+    }
+    .wrapper-1280px{
+        width:90%;
+        max-width:1280px;
+        justify-content:space-between;
+        align-items:center;
+        margin-left:auto;
+        margin-right:auto;
+        padding-top:0;padding-bottom:0;
+        position:relative
+    }
+    .wrapper-1280px.style-guide-hero-wrapper{
+        text-align:center;justify-content:center
+    }
+    .home-more-para-container{
+        width:63%;
+        max-width:690px
+    }
 
   }
